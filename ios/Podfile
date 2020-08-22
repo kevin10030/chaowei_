@@ -1,0 +1,17 @@
+platform :ios, '8.0'
+target 'classroom' do
+#	pod 'SSZipArchive', '2.1.3'
+#	pod 'SDWebImage', '5.1.1'
+#	pod 'HockeySDK', '5.1.2'
+#	pod 'Masonry', '1.1.0'
+#	pod 'SakuraKit', '1.0.0'
+#	pod 'MBProgressHUD', '1.1.0'
+  
+  pod 'SSZipArchive'
+  pod 'SDWebImage'
+  pod 'HockeySDK'
+  pod 'Masonry'
+  pod 'SakuraKit'
+  pod 'MBProgressHUD'
+  pod 'AWSS3'
+end
